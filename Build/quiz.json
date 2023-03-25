@@ -1,0 +1,14 @@
+{
+"companyName": "com.Company.ProductName",
+"productName": "Calouros",
+"dataUrl": "quiz.data.unityweb",
+"asmCodeUrl": "quiz.asm.code.unityweb",
+"asmMemoryUrl": "quiz.asm.memory.unityweb",
+"asmFrameworkUrl": "quiz.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "quiz.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
